@@ -1,0 +1,19 @@
+{
+  "name": "file-share",
+  "version": "1.0.0",
+  "description": "An open source tool from CodeBase.io for file sharing.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "A. N. Patil",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "socket.io": "^4.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
